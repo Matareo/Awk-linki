@@ -1,4 +1,4 @@
-Awk-linki
-=========
+http://pinkaccordions.homelinux.org/staff/tp/prog/awk/awk-intro/awk-man-101.html
 
-Przydatne linki do awk
+http://pl.wikipedia.org/wiki/AWK
+
